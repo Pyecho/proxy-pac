@@ -17,7 +17,8 @@ var rules = [
             "locql.com", 
             "simplecd.me", 
             "syniumsoftware.com", 
-            "wallproxy.com.cn"
+            "wallproxy.com.cn",
+            "github.com",
         ], 
         [
             "030buy.com", 

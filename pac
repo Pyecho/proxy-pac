@@ -19,6 +19,7 @@ var rules = [
             "syniumsoftware.com", 
             "wallproxy.com.cn",
             "github.com",
+            "gravatar.com",
         ], 
         [
             "030buy.com", 
